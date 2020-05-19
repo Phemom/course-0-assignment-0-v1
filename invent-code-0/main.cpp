@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout << "I like gaming." << endl;
+  cout << "I like pancakes." << endl;
+  cout << "I suck at math." << endl;
 }
